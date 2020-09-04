@@ -11,3 +11,16 @@ C:\Users\Jacka\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp
 C:\Users\Jacka\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.dll
 C:\Users\Jacka\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.pdb
 C:\Users\Jacka\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.genruntimeconfig.cache
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csprojAssemblyReference.cache
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfoInputs.cache
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfo.cs
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.exe
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.deps.json
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.json
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.dev.json
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.genruntimeconfig.cache

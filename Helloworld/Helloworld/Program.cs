@@ -9,13 +9,43 @@ namespace Helloworld
             Console.WriteLine("Hello Nikklas!");
 
             Console.WriteLine("Please input your age.");
-            string Age = Console.ReadLine();
+            var Age = Convert.ToInt32(Console.ReadLine());
+
+            if (Age >= 18)
+            {
+                Console.WriteLine("Drinking Time! :o"); }
+
+            else while (Age < 18)
+            {
+                Console.WriteLine("Unlucky no drinking");
+                Console.WriteLine("Maybe input a higher number ;)");
+                    var newAge = Convert.ToInt32(Console.ReadLine());
+                Age = newAge;
+            if (Age >= 18)
+                    {
+                        Console.WriteLine("Drinking Time! :o");
+                    }
+                }
+
 
             Console.WriteLine("Now input your name.");
-            string Name = Console.ReadLine();
+            var Name = Console.ReadLine();
 
-            Console.WriteLine("And lastly, are you currently alive? (Yes or No)");
-            string Alive = Console.ReadLine();
+            Console.WriteLine("And lastly, are you currently alive? (True or False)");
+            var Alive = Convert.ToBoolean(Console.ReadLine());
+
+       
+            switch (Alive)
+            {
+                case true:
+                    Console.WriteLine("Good thing you are alive!");
+                    break;
+
+                case false:
+                    Console.WriteLine("That doesnt make any sense... ");
+                    break;
+            }
+
 
             Console.WriteLine("You are " + Age + " years old | " + "Your name is " + Name + " | Currently Alive? " + Alive);
 
@@ -25,6 +55,13 @@ namespace Helloworld
             Convert.ToInt32(Number1);
 
             Console.WriteLine(Math.Max(Number1, Number2) + "Is the largest number");
+
+            for (var i = 0; i < 5; i++)
+            {
+                Console.WriteLine(i);
+                Console.WriteLine("Sorry Nikklas, jag är inte så creativ xd");
+            }
+
 
 
 
