@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jacob.nelin\\.nuget\\packages\\": {}
+    "C:\\Users\\Jacka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\Helloworld.csproj",
+      "projectUniqueName": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\Helloworld.csproj",
       "projectName": "Helloworld",
-      "projectPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\Helloworld.csproj",
-      "packagesPath": "C:\\Users\\jacob.nelin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\obj\\",
+      "projectPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\Helloworld.csproj",
+      "packagesPath": "C:\\Users\\Jacka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jacob.nelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jacka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
