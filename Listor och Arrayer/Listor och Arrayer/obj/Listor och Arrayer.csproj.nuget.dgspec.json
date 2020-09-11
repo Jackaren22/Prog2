@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\Helloworld.csproj": {}
+    "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Listor och Arrayer\\Listor och Arrayer\\Listor och Arrayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\Helloworld.csproj": {
+    "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Listor och Arrayer\\Listor och Arrayer\\Listor och Arrayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\Helloworld.csproj",
-        "projectName": "Helloworld",
-        "projectPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\Helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Listor och Arrayer\\Listor och Arrayer\\Listor och Arrayer.csproj",
+        "projectName": "Listor och Arrayer",
+        "projectPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Listor och Arrayer\\Listor och Arrayer\\Listor och Arrayer.csproj",
         "packagesPath": "C:\\Users\\jacob.nelin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Helloworld\\Helloworld\\obj\\",
+        "outputPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\Listor och Arrayer\\Listor och Arrayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jacob.nelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
