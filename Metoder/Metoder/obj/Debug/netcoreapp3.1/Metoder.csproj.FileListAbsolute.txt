@@ -10,3 +10,4 @@ C:\Users\jacob.nelin\Documents\GitHub\Prog2\Metoder\Metoder\obj\Debug\netcoreapp
 C:\Users\jacob.nelin\Documents\GitHub\Prog2\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.dll
 C:\Users\jacob.nelin\Documents\GitHub\Prog2\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.pdb
 C:\Users\jacob.nelin\Documents\GitHub\Prog2\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.genruntimeconfig.cache
+C:\Users\jacob.nelin\Documents\GitHub\Prog2\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.csprojAssemblyReference.cache

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Metoder
 {
@@ -7,11 +8,18 @@ namespace Metoder
         static void Main(string[] args)
         {
 
-            int[] numbers = { 1, 3, 5, 7, 9, 12 };
+            int[] numbers = { 28, 2, 3, 5, 7, 9, 12 };
             string[] words = { "hej", "svejs", "leif", "kommer", "majs" };
 
             Console.WriteLine(sum(numbers));
-            Console.WriteLine(reversed(words));
+            Reversed(words);
+            int[] maxandmin = MaxAndMin(numbers); // Mina variablers namn är hemska mamma mia....
+
+
+            for (int i = 0; i < maxandmin.Length; i++)
+            {
+                Console.WriteLine(maxandmin[i]);
+            }
 
         }
 
@@ -26,12 +34,25 @@ namespace Metoder
             return sum;
         }
 
-        static string reversed(string[] words)
+        static void Reversed(string[] words)
         {
             Array.Reverse(words);
-            return words[0];
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(words[i]);
+            }
 
         }
    
+        static int[] MaxAndMin (int[] numbers)
+        {
+            int largest = numbers.Max();
+            int smallest = numbers.Min();
+
+            int[] both = { largest, smallest };
+
+            return both;
+
+        }
     }
 }

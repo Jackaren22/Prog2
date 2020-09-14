@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Helloworld",
-    "\\Helloworld\\Helloworld"
+    "\\Helloworld\\Helloworld",
+    "\\Listor och Arrayer",
+    "\\Metoder\\Metoder"
   ],
-  "SelectedNode": "\\Helloworld\\Helloworld\\Program.cs",
+  "SelectedNode": "\\Listor och Arrayer\\Listor och Arrayer.sln",
   "PreviewInSolutionExplorer": false
 }
