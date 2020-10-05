@@ -11,3 +11,16 @@ C:\Users\jacob.nelin\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcorea
 C:\Users\jacob.nelin\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.dll
 C:\Users\jacob.nelin\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.pdb
 C:\Users\jacob.nelin\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.genruntimeconfig.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.exe
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.deps.json
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.runtimeconfig.json
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.runtimeconfig.dev.json
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.dll
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.pdb
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.csprojAssemblyReference.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.AssemblyInfoInputs.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.AssemblyInfo.cs
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.csproj.CoreCompileInputs.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.dll
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.pdb
+C:\Users\Jacka\Documents\GitHub\Prog2\OOPIntro\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.genruntimeconfig.cache

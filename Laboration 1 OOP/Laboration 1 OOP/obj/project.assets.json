@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\OOPIntro\\OOPIntro\\OOPIntro.csproj",
-      "projectName": "OOPIntro",
-      "projectPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\OOPIntro\\OOPIntro\\OOPIntro.csproj",
+      "projectUniqueName": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Laboration 1 OOP\\Laboration 1 OOP\\Laboration 1 OOP.csproj",
+      "projectName": "Laboration 1 OOP",
+      "projectPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Laboration 1 OOP\\Laboration 1 OOP\\Laboration 1 OOP.csproj",
       "packagesPath": "C:\\Users\\Jacka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\OOPIntro\\OOPIntro\\obj\\",
+      "outputPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Laboration 1 OOP\\Laboration 1 OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jacka\\AppData\\Roaming\\NuGet\\NuGet.Config",
