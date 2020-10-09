@@ -7,6 +7,9 @@ namespace Laboration_1_OOP
         static void Main(string[] args)
         {
 
+            // fuck denna koden :DDD!!!!!!!!!!!!!!!!!!!!! kul
+            // Allt den saknar är att lägga till produkt på person, koden må vara hemsk men den funkar ju weeeeeee.
+
             Kund Bogdan = new Kund("Bogdan");
             Kund Bruh = new Kund("Bruh");
             Kund Bob = new Kund("Bogdan");
@@ -15,6 +18,9 @@ namespace Laboration_1_OOP
             Pillow Trump = new Pillow("Orange", "Medium", "Tomato");
             Pillow Rorri = new Pillow("Red", "Extra Large", "Car");
             Pillow Shrek = new Pillow("Green", "Small", "Ogre");
+
+            int loop = 1;
+            while (loop == 1) { 
 
             StartMenu();
 
@@ -26,35 +32,87 @@ namespace Laboration_1_OOP
 
 
                 case 1:
-                    Console.WriteLine("You are nog logged in with user Bogdan");
-                    PillowMenu();
+                 
+                        Console.WriteLine("You are nog logged in with user Bogdan");
+                    
+                        PillowMenu();
+                        
+                        int pillowselect = 0;
+                        pillowselect = Convert.ToInt32(Console.ReadLine());
 
-                    int pillowselect = 0;
-                    pillowselect = Convert.ToInt32(Console.ReadLine());
+                        switch (pillowselect)
+                        {
+                            case 1:
+                                Obama.Description();
+                                PillowConfirmation();
+                                int confirmation = 0;
+                                confirmation = Convert.ToInt32(Console.ReadLine());
 
-                    switch (pillowselect)
-                    {
-                        case 1:
-                            Obama.Description();
-                            PillowConfirmation();
+                                switch (confirmation)
+                                {
+                                    case 1:
+                                        Console.WriteLine("Succesfully added to cart! Returning to user selection screen");
+                                        break;
+
+                                    case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                        break;
+                                }
+
+                                break;
+
+                            case 2:
+                                Trump.Description();
+                                PillowConfirmation();
+                            confirmation = Convert.ToInt32(Console.ReadLine());
+
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
+
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
                             break;
 
-                        case 2:
-                            Trump.Description();
-                            PillowConfirmation();
+                            case 3:
+                                Rorri.Description();
+                                PillowConfirmation();
+                            confirmation = Convert.ToInt32(Console.ReadLine());
+
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
+
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
                             break;
 
-                        case 3:
-                            Rorri.Description();
-                            PillowConfirmation();
-                            break;
+                            case 4:
+                                Shrek.Description();
+                                PillowConfirmation();
+                            confirmation = Convert.ToInt32(Console.ReadLine());
 
-                        case 4:
-                            Shrek.Description();
-                            PillowConfirmation();
-                            break;
-                    }
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
 
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
+                            break;
+                        }
+                    
                     break;
 
                 case 2:
@@ -63,26 +121,77 @@ namespace Laboration_1_OOP
 
                     pillowselect = Convert.ToInt32(Console.ReadLine());
 
+
                     switch (pillowselect)
                     {
                         case 1:
                             Obama.Description();
                             PillowConfirmation();
+                            int confirmation = 0;
+                            confirmation = Convert.ToInt32(Console.ReadLine());
+
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
+
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
+
                             break;
 
                         case 2:
                             Trump.Description();
                             PillowConfirmation();
+                            confirmation = Convert.ToInt32(Console.ReadLine());
+
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
+
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
                             break;
 
                         case 3:
                             Rorri.Description();
                             PillowConfirmation();
+                            confirmation = Convert.ToInt32(Console.ReadLine());
+
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
+
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
                             break;
 
                         case 4:
                             Shrek.Description();
                             PillowConfirmation();
+                            confirmation = Convert.ToInt32(Console.ReadLine());
+
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
+
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
                             break;
                     }
 
@@ -94,26 +203,77 @@ namespace Laboration_1_OOP
 
                     pillowselect = Convert.ToInt32(Console.ReadLine());
 
+
                     switch (pillowselect)
                     {
                         case 1:
                             Obama.Description();
                             PillowConfirmation();
+                            int confirmation = 0;
+                            confirmation = Convert.ToInt32(Console.ReadLine());
+
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
+
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
+
                             break;
 
                         case 2:
                             Trump.Description();
                             PillowConfirmation();
+                            confirmation = Convert.ToInt32(Console.ReadLine());
+
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
+
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
                             break;
 
                         case 3:
                             Rorri.Description();
                             PillowConfirmation();
+                            confirmation = Convert.ToInt32(Console.ReadLine());
+
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
+
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
                             break;
 
                         case 4:
                             Shrek.Description();
                             PillowConfirmation();
+                            confirmation = Convert.ToInt32(Console.ReadLine());
+
+                            switch (confirmation)
+                            {
+                                case 1:
+                                    Console.WriteLine("Succesfully added to cart! Returning to pillow selection screen");
+                                    break;
+
+                                case 2:
+                                    Console.WriteLine("Pillow not added to card, returning to pillow selection screen");
+                                    break;
+                            }
                             break;
                     }
 
@@ -123,7 +283,7 @@ namespace Laboration_1_OOP
 
             }
 
-
+            }
         }
 
         public static void StartMenu()
