@@ -1,0 +1,13 @@
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.exe
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.deps.json
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.runtimeconfig.json
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.runtimeconfig.dev.json
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.dll
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.pdb
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.csprojAssemblyReference.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.AssemblyInfoInputs.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.AssemblyInfo.cs
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.csproj.CoreCompileInputs.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.dll
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.pdb
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\Lab 1 OOP Nikklas Kod.genruntimeconfig.cache
