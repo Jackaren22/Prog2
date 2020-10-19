@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Lab 1 OOP Nikklas Kod\\Lab 1 OOP Nikklas Kod\\Lab 1 OOP Nikklas Kod.csproj",
-      "projectName": "Lab 1 OOP Nikklas Kod",
-      "projectPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Lab 1 OOP Nikklas Kod\\Lab 1 OOP Nikklas Kod\\Lab 1 OOP Nikklas Kod.csproj",
+      "projectUniqueName": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Lab 1 OOP Nikklas Kod\\Lab 1 OOP Nikklas Kod\\OOP Lab.csproj",
+      "projectName": "OOP Lab",
+      "projectPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Lab 1 OOP Nikklas Kod\\Lab 1 OOP Nikklas Kod\\OOP Lab.csproj",
       "packagesPath": "C:\\Users\\Jacka\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\Lab 1 OOP Nikklas Kod\\Lab 1 OOP Nikklas Kod\\obj\\",
       "projectStyle": "PackageReference",

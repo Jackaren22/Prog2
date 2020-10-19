@@ -1,0 +1,12 @@
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\OOP Lab.exe
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\OOP Lab.deps.json
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\OOP Lab.runtimeconfig.json
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\OOP Lab.runtimeconfig.dev.json
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\OOP Lab.dll
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\bin\Debug\netcoreapp3.1\OOP Lab.pdb
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\OOP Lab.AssemblyInfoInputs.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\OOP Lab.AssemblyInfo.cs
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\OOP Lab.csproj.CoreCompileInputs.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\OOP Lab.dll
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\OOP Lab.pdb
+C:\Users\Jacka\Documents\GitHub\Prog2\Lab 1 OOP Nikklas Kod\Lab 1 OOP Nikklas Kod\obj\Debug\netcoreapp3.1\OOP Lab.genruntimeconfig.cache
