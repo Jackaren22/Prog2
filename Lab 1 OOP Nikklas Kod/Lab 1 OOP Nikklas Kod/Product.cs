@@ -8,4 +8,17 @@ namespace Lab_1_OOP_Nikklas_Kod
     {
         public string _productName;
     }
+
+    class Drink : Product
+    {
+        
+    }
+    class Food : Product
+    {
+        
+    }
+    class Snack : Product
+    {
+        
+    }
 }
