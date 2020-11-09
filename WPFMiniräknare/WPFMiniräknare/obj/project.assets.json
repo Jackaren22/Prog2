@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFDemo\\WPFDemo\\WPFDemo.csproj",
-      "projectName": "WPFDemo",
-      "projectPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFDemo\\WPFDemo\\WPFDemo.csproj",
+      "projectUniqueName": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\WPFMiniräknare.csproj",
+      "projectName": "WPFMiniräknare",
+      "projectPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\WPFMiniräknare.csproj",
       "packagesPath": "C:\\Users\\jacob.nelin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFDemo\\WPFDemo\\obj\\",
+      "outputPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jacob.nelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
