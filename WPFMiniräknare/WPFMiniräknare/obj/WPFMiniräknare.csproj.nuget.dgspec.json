@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\WPFMiniräknare.csproj": {}
+    "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\WPFMiniräknare.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\WPFMiniräknare.csproj": {
+    "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\WPFMiniräknare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\WPFMiniräknare.csproj",
+        "projectUniqueName": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\WPFMiniräknare.csproj",
         "projectName": "WPFMiniräknare",
-        "projectPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\WPFMiniräknare.csproj",
-        "packagesPath": "C:\\Users\\jacob.nelin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob.nelin\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\obj\\",
+        "projectPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\WPFMiniräknare.csproj",
+        "packagesPath": "C:\\Users\\Jacka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jacka\\Documents\\GitHub\\Prog2\\WPFMiniräknare\\WPFMiniräknare\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jacob.nelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jacka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
