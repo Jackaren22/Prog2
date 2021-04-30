@@ -8,7 +8,7 @@
         Title="League Quiz Game" Height="600" Width="1000">
     <Canvas Name="myCanvas" Background="Aquamarine">
 
-        <Label Name="scoreText" FontSize="18">Score: 0/14</Label>
+        <Label Name="scoreText" FontSize="18">Answered Correctly  0/14</Label>
         <!--Den här kommer att visa hur många poäng man har under spelets gång-->
         <Label Name="questionOrder" FontSize="18" Canvas.Left="480">Questions</Label>
         <!--Här kommer ordningen av frågorna visas -->
