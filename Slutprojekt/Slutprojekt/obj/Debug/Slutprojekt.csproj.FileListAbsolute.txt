@@ -1,0 +1,15 @@
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\bin\Debug\Slutprojekt.exe.config
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\bin\Debug\Slutprojekt.exe
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\bin\Debug\Slutprojekt.pdb
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.csprojAssemblyReference.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\MainWindow.g.cs
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\App.g.cs
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt_MarkupCompile.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt_MarkupCompile.lref
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\MainWindow.baml
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.g.resources
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.Properties.Resources.resources
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.csproj.GenerateResource.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.exe
+C:\Users\Jacka\Documents\GitHub\Prog2\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.pdb

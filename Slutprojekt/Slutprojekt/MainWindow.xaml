@@ -1,0 +1,26 @@
+﻿<Window x:Class="Slutprojekt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Slutprojekt"
+        mc:Ignorable="d"
+        Title="League Quiz Game" Height="600" Width="800">
+    <Canvas Name="myCanvas" Background="Aquamarine">
+
+        <Label Name="scoreText" FontSize="18">Score: 0/14</Label>
+        <Label Name="questionOrder" FontSize="18" Canvas.Left="350">Questions</Label>
+
+        <Image Name="questionImage" Source="images/1.jpg" Stretch="Uniform" Height="290" Width="580" Canvas.Left="104" Canvas.Top="34"></Image>
+
+        <TextBlock Name="textQuestion" TextAlignment="Center" Padding="3" FontSize="20"  Width="580" TextWrapping="Wrap" Canvas.Left="104" Canvas.Top="329">which garen mf</TextBlock>
+
+        <Button Background="DarkSeaGreen" FontSize="18" Click="checkAnswer" Name="answer1" Width="200" Height="50" Content="Answer 1" Tag="0" Canvas.Left="104" Canvas.Top="387"></Button> <!--Svars knappar, "Tag" taggen används för att bestämma vilket svar som är rätt-->
+        <Button Background="DarkSeaGreen" FontSize="18" Click="checkAnswer" Name="answer2" Width="200" Height="50" Content="Answer 2" Tag="0" Canvas.Left="104" Canvas.Top="469"></Button>
+        <Button Background="DarkSeaGreen" FontSize="18" Click="checkAnswer" Name="answer3" Width="200" Height="50" Content="Answer 3" Tag="0" Canvas.Left="484" Canvas.Top="387"></Button>
+        <Button Background="DarkSeaGreen" FontSize="18" Click="checkAnswer" Name="answer4" Width="200" Height="50" Content="Answer 4" Tag="0" Canvas.Left="484" Canvas.Top="469"></Button>
+
+
+
+    </Canvas>
+</Window>
