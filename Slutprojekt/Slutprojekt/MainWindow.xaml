@@ -5,24 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Slutprojekt"
         mc:Ignorable="d"
-        Title="League Quiz Game" Height="600" Width="800">
+        Title="League Quiz Game" Height="600" Width="1000">
     <Canvas Name="myCanvas" Background="Aquamarine">
 
         <Label Name="scoreText" FontSize="18">Score: 0/14</Label>
         <!--Den här kommer att visa hur många poäng man har under spelets gång-->
-        <Label Name="questionOrder" FontSize="18" Canvas.Left="350">Questions</Label>
+        <Label Name="questionOrder" FontSize="18" Canvas.Left="480">Questions</Label>
         <!--Här kommer ordningen av frågorna visas -->
 
-        <Image Name="questionImage" Source="images/1.jpg" Stretch="Uniform" Height="290" Width="580" Canvas.Left="104" Canvas.Top="34"></Image>
+        <Image Name="questionImage" Source="images/1.jpg" Stretch="Uniform" Height="290" Width="500" Canvas.Left="250" Canvas.Top="34"></Image>
         <!--Här kommer bilden att placeras -->
 
-        <TextBlock Name="textQuestion" TextAlignment="Center" Padding="3" FontSize="20"  Width="580" TextWrapping="Wrap" Canvas.Left="104" Canvas.Top="329">Garen go brrrr</TextBlock>
+        <TextBlock Name="textQuestion" TextAlignment="Center" Padding="3" FontSize="20"  Width="580" TextWrapping="Wrap" Canvas.Left="209" Canvas.Top="324">Garen go brrrr</TextBlock>
         <!--Här kommer att frågan visas-->
 
-        <Button Background="DarkSeaGreen" FontSize="18" Click="checkAnswer" Name="answer1" Width="200" Height="50" Content="Answer 1" Tag="0" Canvas.Left="104" Canvas.Top="387"></Button> <!--Svars knappar, "Tag" taggen används för att bestämma vilket svar som är rätt-->
-        <Button Background="DarkSeaGreen" FontSize="18" Click="checkAnswer" Name="answer2" Width="200" Height="50" Content="Answer 2" Tag="0" Canvas.Left="104" Canvas.Top="469"></Button>
-        <Button Background="DarkSeaGreen" FontSize="18" Click="checkAnswer" Name="answer3" Width="200" Height="50" Content="Answer 3" Tag="0" Canvas.Left="484" Canvas.Top="387"></Button>
-        <Button Background="DarkSeaGreen" FontSize="18" Click="checkAnswer" Name="answer4" Width="200" Height="50" Content="Answer 4" Tag="0" Canvas.Left="484" Canvas.Top="469"></Button>
+        <Button Background="DarkSeaGreen" FontSize="16" Click="checkAnswer" Name="answer1" Width="300" Height="55" Content="Answer 1" Tag="0" Canvas.Left="177" Canvas.Top="387"></Button>
+        <!--Svars knappar, "Tag" taggen används för att bestämma vilket svar som är rätt-->
+        <Button Background="DarkSeaGreen" FontSize="16" Click="checkAnswer" Name="answer2" Width="300" Height="55" Content="Answer 2" Tag="0" Canvas.Left="177" Canvas.Top="469"></Button>
+        <Button Background="DarkSeaGreen" FontSize="16" Click="checkAnswer" Name="answer3" Width="300" Height="55" Content="Answer 3" Tag="0" Canvas.Right="100" Canvas.Top="387" Canvas.Left="528"></Button>
+        <Button Background="DarkSeaGreen" FontSize="16" Click="checkAnswer" Name="answer4" Width="300" Height="55" Content="Answer 4" Tag="0" Canvas.Left="528" Canvas.Top="469"></Button>
 
         <!--Det spelar ingen roll vad för content alla saker har här då det flesta byts ut senare-->
 

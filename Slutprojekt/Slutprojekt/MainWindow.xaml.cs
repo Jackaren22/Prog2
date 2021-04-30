@@ -54,7 +54,7 @@ namespace Slutprojekt
                 qNum++;
             }
 
-            scoreText.Content = "Answered Correctly" + score + "/" + questionNumbers.Count; // Detta ändrar top left hörnet från 0/14 till att visa "Answered Correctly och sedan hur många du har svarat rätt
+            scoreText.Content = "Answered Correctly " + score + "/" + questionNumbers.Count; // Detta ändrar top left hörnet från 0/14 till att visa "Answered Correctly och sedan hur många du har svarat rätt
 
             NextQuestion();
         }
