@@ -57,7 +57,7 @@ namespace Slutprojekt {
         #line hidden
         
         
-        #line 12 "..\..\MainWindow.xaml"
+        #line 13 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label questionOrder;
         
@@ -65,7 +65,7 @@ namespace Slutprojekt {
         #line hidden
         
         
-        #line 14 "..\..\MainWindow.xaml"
+        #line 16 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image questionImage;
         
@@ -73,7 +73,7 @@ namespace Slutprojekt {
         #line hidden
         
         
-        #line 16 "..\..\MainWindow.xaml"
+        #line 19 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBlock textQuestion;
         
@@ -81,7 +81,7 @@ namespace Slutprojekt {
         #line hidden
         
         
-        #line 18 "..\..\MainWindow.xaml"
+        #line 22 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button answer1;
         
@@ -89,7 +89,7 @@ namespace Slutprojekt {
         #line hidden
         
         
-        #line 19 "..\..\MainWindow.xaml"
+        #line 23 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button answer2;
         
@@ -97,7 +97,7 @@ namespace Slutprojekt {
         #line hidden
         
         
-        #line 20 "..\..\MainWindow.xaml"
+        #line 24 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button answer3;
         
@@ -105,7 +105,7 @@ namespace Slutprojekt {
         #line hidden
         
         
-        #line 21 "..\..\MainWindow.xaml"
+        #line 25 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button answer4;
         
@@ -160,7 +160,7 @@ namespace Slutprojekt {
             case 6:
             this.answer1 = ((System.Windows.Controls.Button)(target));
             
-            #line 18 "..\..\MainWindow.xaml"
+            #line 22 "..\..\MainWindow.xaml"
             this.answer1.Click += new System.Windows.RoutedEventHandler(this.checkAnswer);
             
             #line default
@@ -169,7 +169,7 @@ namespace Slutprojekt {
             case 7:
             this.answer2 = ((System.Windows.Controls.Button)(target));
             
-            #line 19 "..\..\MainWindow.xaml"
+            #line 23 "..\..\MainWindow.xaml"
             this.answer2.Click += new System.Windows.RoutedEventHandler(this.checkAnswer);
             
             #line default
@@ -178,7 +178,7 @@ namespace Slutprojekt {
             case 8:
             this.answer3 = ((System.Windows.Controls.Button)(target));
             
-            #line 20 "..\..\MainWindow.xaml"
+            #line 24 "..\..\MainWindow.xaml"
             this.answer3.Click += new System.Windows.RoutedEventHandler(this.checkAnswer);
             
             #line default
@@ -187,7 +187,7 @@ namespace Slutprojekt {
             case 9:
             this.answer4 = ((System.Windows.Controls.Button)(target));
             
-            #line 21 "..\..\MainWindow.xaml"
+            #line 25 "..\..\MainWindow.xaml"
             this.answer4.Click += new System.Windows.RoutedEventHandler(this.checkAnswer);
             
             #line default

@@ -21,13 +21,13 @@ namespace Slutprojekt
     public partial class MainWindow : Window
     {
 
-        List<int> questionNumbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 };
+        List<int> questionNumbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 }; // Här görs en lista på frågorna som sedan kommer att bli slumpade av en randomizer längre ned i koden
 
         int qNum = 0;
 
         int i;
 
-        int score;
+        int score; // Variabel för antal rätt man har haft
 
         public MainWindow()
         {
@@ -36,7 +36,7 @@ namespace Slutprojekt
             NextQuestion();
         }
 
-        private void checkAnswer(object sender, RoutedEventArgs e)
+        private void checkAnswer(object sender, RoutedEventArgs e) // Denna kod körs varenda gång man klickar på en av svars knapparna
         {
             Button senderButton = sender as Button;
 
@@ -45,7 +45,7 @@ namespace Slutprojekt
                 score++;
             }
 
-            if (qNum < 0) //Här går den till nästa fråga så länge talet inte skulle vara negativt, då resettar den till 0
+            if (qNum < 0) //Här ökas qNum varje gång du har svarat på en fråga så att den tillslut startar om spelet när värdet blir lika antalet frågor (Se rad 70)
             {
                 qNum = 0;
             }
@@ -54,12 +54,12 @@ namespace Slutprojekt
                 qNum++;
             }
 
-            scoreText.Content = "Answered Correctly" + score + "/" + questionNumbers.Count;
+            scoreText.Content = "Answered Correctly" + score + "/" + questionNumbers.Count; // Detta ändrar top left hörnet från 0/14 till att visa "Answered Correctly och sedan hur många du har svarat rätt
 
             NextQuestion();
         }
 
-        private void RestartGame() //Startar om spelet genom att sätta alla värden till ordinarie värden och runnar StartGame commandet
+        private void RestartGame() //Startar om spelet genom att sätta alla värden till ordinarie värden och runnar StartGame commandet, man får klicka på en av svars knapparna för att helt starta om spelet så att qNum hamnar på 0
         {
             score = 0;
             qNum = -1;
@@ -73,7 +73,7 @@ namespace Slutprojekt
             {
                 i = questionNumbers[qNum];
             }
-            else
+            else // Om det inte finns fler frågor startas spelet om
             {
                 RestartGame();
             }
@@ -84,20 +84,20 @@ namespace Slutprojekt
                 x.Background = Brushes.DarkSeaGreen;
             }
 
-            switch (i)
+            switch (i) // Här är alla frågorna
             {
                 case 1:
 
-                    textQuestion.Text = "Which Garen skin is this?";
+                    textQuestion.Text = "Which Garen skin is this?"; //Texten som kommer displaya frågan
 
-                    answer1.Content = "Knight Garen";
+                    answer1.Content = "Knight Garen"; // Svars alternativ
                     answer2.Content = "Default Skin";
                     answer3.Content = "Warrior Garen";
                     answer4.Content = "Homo Garen";
 
-                    answer2.Tag = "1";
+                    answer2.Tag = "1"; //Man kan bara få rätt svar om man klickar på en knapp som har tagen "1", så här väljer jag ut vilken av knapparna som ska vara rätt svar
 
-                    questionImage.Source = new BitmapImage(new Uri("pack://application:,,,/images/1.jpg"));
+                    questionImage.Source = new BitmapImage(new Uri("pack://application:,,,/images/1.jpg")); //Här länkas bilden
 
 
                     break;
@@ -316,15 +316,15 @@ namespace Slutprojekt
 
         }
 
-        private void StartGame()
+        private void StartGame() //Koden som körs när spelet startas, denna kod körs även när RestartGame körs.
         {
             var randomList = questionNumbers.OrderBy(a => Guid.NewGuid()).ToList(); //Randomar ordningen av frågorna
 
-            questionNumbers = randomList;
+            questionNumbers = randomList; //Den nya slumpade listan byter ut den tidigare listan
 
             questionOrder.Content = null; //Tömmer contenten
 
-            for (int i = 0; i < questionNumbers.Count; i++)
+            for (int i = 0; i < questionNumbers.Count; i++) //Denna delen visar på toppen av skärmen vilken ordning frågerna har slumpats i när man väl börjar spelet
             {
                 questionOrder.Content += " " + questionNumbers[i].ToString();
             }
